@@ -1,0 +1,13 @@
+1) (localizar el archivo descargado de github / link IFTS LaBarranca)
+2) (localizado en la carpeta del archivo, abrir un terminal y escribir a continuacion)
+$ cd LaBarranca
+3) (en la terminal)
+$ source flasky/bin/activate.
+4) (en la terminal)
+(flasky) %%% $ python app.py runserver.
+(en caso de que genere errores, esto se debe a la falta de librerias, puede descargar/ actualizar via el comando en terminal:
+$ pip install -r requierements
+).
+5) Entrar en 127.0.0.1:5000 para verificar que el programa funcione.
+6) ir a "Registrarse" para añadir nuevos usuarios
+7) Realizar consultas.
